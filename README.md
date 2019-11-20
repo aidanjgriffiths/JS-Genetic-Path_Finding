@@ -1,7 +1,7 @@
 # JS-Genetic-Path_Finding
 The “Path-finding” project focuses on developing an effective solution through genetic algorithm from proposing a problem doing research to doing varied test cases. This project was built with the p5.js library to implement genetic algorithm and our knowledge of mathematics to develop an application running on the browser to demonstrate as well as visualize our achievement apparently.   
 
-# Report
+# Summary
 Genetic Algorithms are a popular optimisation heuristic based on Charles Darwin’s famous theory of natural selection. This theory suggests that a population will produce offspring that are more adapted to an environment according to natural mutations and characteristics passed on in each generation. The same applies for its implementation in a genetic algorithm.
 The following states the process of a genetic algorithm:
 1.	Initial population
