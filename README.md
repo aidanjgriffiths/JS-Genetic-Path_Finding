@@ -1,4 +1,4 @@
-# JS-Genetic-Path_Finding
+# JS Genetic Path Finding
 The “Path-finding” project focuses on developing an effective solution through genetic algorithm from proposing a problem doing research to doing varied test cases. This project was built with the p5.js library to implement genetic algorithm and our knowledge of mathematics to develop an application running on the browser to demonstrate as well as visualize our achievement apparently.   
 
 # Summary
